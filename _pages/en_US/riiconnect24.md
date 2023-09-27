@@ -72,12 +72,12 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Extract the YAWM ModMii Edition `.zip` file, and copy the `apps` folder to your SD card or USB drive.
-1. Put your SD card or USB drive in your Wii.
-1. Launch the Homebrew Channel on your Wii.
-1. Launch YAWM ModMii Edition.
-1. Select the device you have put the RiiConnect24 files on.
-1. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
-1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+2. Put your SD card or USB drive in your Wii.
+3. Launch the Homebrew Channel on your Wii.
+4. Launch YAWM ModMii Edition.
+5. Select the device you have put the RiiConnect24 files on.
+6. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section III - Patching nwc24msg.cfg
 
